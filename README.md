@@ -28,4 +28,3 @@ Node: 12.22.1
 node-sass: 6.0.0  [JavaScript]
 
 Pour créer un compte sur l'application : Le mot de passe doit contenir 8 caractères minimum dont 1 majuscule, 1 minuscule et 1 chiffre.
-
