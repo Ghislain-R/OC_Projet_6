@@ -27,4 +27,4 @@ Angular CLI: 7.0.2
 Node: 12.22.1
 node-sass: 6.0.0  [JavaScript]
 
-Information : Pour créer un compte sur l'application : Le mot de passe doit contenir 8 caractères minimum dont 1 majuscule, 1 minuscule et 1 chiffre)
+Pour créer un compte sur l'application : Le mot de passe doit contenir 8 caractères minimum dont 1 majuscule, 1 minuscule et 1 chiffre.
