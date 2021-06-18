@@ -6,7 +6,7 @@ Projet Openclassrooms N°6 - So Pekocko
 1 - Procédure d'installation
 
 Cloner ce projet depuis Github.     
-Le projet contient le backend et le frontend     
+Le projet contient le backend et le frontend.          
 
 2 - Pour lancer le Frontend     
 
