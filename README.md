@@ -22,11 +22,12 @@ Ouvrir le terminal sur le dossier "backend".
 Pour utiliser le serveur, chargez le package nodemon : npm install -g nodemon.
 Puis lancez le serveur avec la commande "nodemon server".
 
+****Informations complémentaires****
 
 Les versions suivantes ont été utilisées pour le développement :
 
-Angular CLI: 7.0.2
-Node: 12.22.1
-node-sass: 6.0.0  [JavaScript]
+Angular CLI: 7.0.2     
+Node: 12.22.1     
+node-sass: 6.0.0     
 
 Pour créer un compte sur l'application : Le mot de passe doit contenir 8 caractères minimum dont 1 majuscule, 1 minuscule et 1 chiffre.
