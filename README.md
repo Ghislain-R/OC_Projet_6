@@ -18,12 +18,9 @@ NB : L'application va se recharger automatiquement si vous modifiez un fichier s
 
 3 - Pour lancer le Backend
 
-Ouvrir le terminal sur le dossier "backend"
+Ouvrir le terminal sur le dossier "backend".
 Pour utiliser le serveur, chargez le package nodemon : npm install -g nodemon.
-Puis lancez le serveur avec la commande : nodemon server.
-Pour faire court
-Si les packages sont déja installés, ces commandes suffisent à démarrer les serveurs.
-
+Puis lancez le serveur avec la commande "nodemon server".
 
 Les versions suivantes ont été utilisées pour le développement :
 Angular CLI: 7.0.2
